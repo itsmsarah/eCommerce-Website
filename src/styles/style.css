@@ -12,10 +12,11 @@ header{
 }
 .nav-header ul li{
     list-style: none;
-    color: black;
+    color: var(--color--neutral--black);
     font-size: 18px;
 }
 .nav-header ul a{
+    color: var(--color--neutral--black);
     text-decoration: none;
 }
 .nav-header-icons ul{
